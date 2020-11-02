@@ -1,0 +1,54 @@
+commit ce13dc6640e49f48d5b5d2ad57adac35d3540e70
+Author: unknown <samirovsky79@gmail.com>
+Date:   Mon Nov 2 22:43:14 2020 +0100
+
+    Textfil skapad
+
+commit a4826fe279b760a3e6003070f49d35cf6ca74d4f
+Author: unknown <samirovsky79@gmail.com>
+Date:   Mon Nov 2 22:32:09 2020 +0100
+
+    git log copied
+
+commit 6697d35f3aa7e34281ba263f1b4908a8abf49d13
+Author: unknown <samirovsky79@gmail.com>
+Date:   Mon Nov 2 21:56:19 2020 +0100
+
+    text from git log added
+
+commit 6440329bbf89ad4425f39b71da1ffb0f074dc7cc
+Merge: db7200e fdd3d61
+Author: unknown <samirovsky79@gmail.com>
+Date:   Mon Nov 2 21:46:35 2020 +0100
+
+    Merge branch 'feature' into main
+
+commit fdd3d6147f2893655c55b9d5de6a62915dcbb985
+Author: unknown <samirovsky79@gmail.com>
+Date:   Mon Nov 2 21:44:31 2020 +0100
+
+     new textfile created
+
+commit db7200ec881e1a2863c8e742a56f3018bd50d80b
+Author: unknown <samirovsky79@gmail.com>
+Date:   Mon Nov 2 21:22:00 2020 +0100
+
+    File deleted
+
+commit 0b09d40629392bd38a8471daecfec0aa1ccda923
+Author: unknown <samirovsky79@gmail.com>
+Date:   Mon Nov 2 21:11:46 2020 +0100
+
+    New textfile created
+
+commit fa708b44b85a762e970967215cb17ae51b2da977
+Author: unknown <samirovsky79@gmail.com>
+Date:   Mon Nov 2 20:48:41 2020 +0100
+
+    Modified README and gitignore-filesa
+
+commit b7c155dca08a486a46e323d333b158917e0f4722
+Author: unknown <samirovsky79@gmail.com>
+Date:   Mon Nov 2 20:30:32 2020 +0100
+
+    Skapat README och getignore-filar
